@@ -7,7 +7,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="backgroundcolor">#fcfcfc</item>
         <item name="tintcolor">#1976D2</item>
-<!--        <item name="textcolor">#808080</item>-->
+        <item name="textcolor">#808080</item>
         <item name="cardbackground">#ffffff</item>
         <item name="buttoncolor">#2196F3</item>
         <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
